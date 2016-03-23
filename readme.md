@@ -1,3 +1,7 @@
+# Deprectated
+
+Just use the official [PHP](https://hub.docker.com/r/library/php/tags/) images from docker hub it has PHP7 on Alpine between 98 - 170 Mbs which is amazing.
+
 ## Docker Container for PHP 7 
 
 This is a docker container for PHP 7 mainly the cli. 
